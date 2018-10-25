@@ -1,5 +1,7 @@
 # Vierzig Theme Demo
 
+Demo for the [Vierzig Theme](https://github.com/ASVBPREAUBV/vierzig)
+
 [Demo](https://vierzig-theme-demo.netlify.com/)
 [Admin Interface Demp](https://vierzig-theme-demo.netlify.com/admin)
 
