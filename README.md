@@ -1,4 +1,10 @@
 # Vierzig Theme Demo
+
+[Demo](https://vierzig-theme-demo.netlify.com/)
+[Admin Interface Demp](https://vierzig-theme-demo.netlify.com/admin)
+
+## Admin Interface
+
 build with [HUGO](https://gohugo.io/)
 
 1. Download Hugo bin
