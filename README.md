@@ -20,8 +20,15 @@ https://github.com/gohugoio/hugo/releases
 ./bin/hugo server -wDEF --disableFastRender
 ```
 
-## production
+## Production
 build site to /public with
 ```
 ./bin/hugo 
 ```
+
+
+## TODO
+
+- [ ] Cut down on theme config
+- [ ] Remove Menu
+- [ ] Come up with sass concept
