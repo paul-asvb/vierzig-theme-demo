@@ -10,12 +10,14 @@ googleAnalytics = ""
 disqusShortname = ""
 
 [params]
-  # You can use Markdown syntax for urls [text](//url.to/source)
-  # To create multi-line text in strings use the """example Text""" format
-  #
-  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
-  # for more icons. The icons are represented by their corresponding
-  # CSS class.
+    # Banner section
+    [params.banner]
+      # To change the background image on the homepage banner, replace 'banner.jpg' in
+      # the 'static/img' folder.
+      title = "Hi, my name is Vierzig"
+      subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
+      buttonText = "Get Started"
+
 
   # Provide your metadata here.
   name = "Your name"
@@ -25,9 +27,6 @@ disqusShortname = ""
   custom_css = []
   custom_js  = []
   favicon    = "favicon.ico"
-
-  # Just a custom image variable, please define it in .md files for content.
-  image = ""
 
   # 404 error customization
   [params.error404]
@@ -76,13 +75,6 @@ disqusShortname = ""
       url = "#"
 
 
-  # Banner section
-  [params.banner]
-    # To change the background image on the homepage banner, replace 'banner.jpg' in
-    # the 'static/img' folder.
-    title = "Hi, my name is Forty"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
-    buttonText = "Get Started"
 
 
   # Tiles Section
