@@ -1,13 +1,18 @@
-name = "Forty"
+name = "Vierzig"
 license = "Creative Commons Attribution 3.0"
-licenselink = "https://github.com/MarcusVirg/forty/blob/master/LICENSE.md"
-description = "A portfolio/blog website built for companies or personal freelancers."
-homepage = "//github.com/MarcusVirg/forty"
+licenselink = "https://github.com/ASVBPREAUBV/vierzig/blob/master/LICENSE.md"
+description = "A portfolio website for creators "
+homepage = "https://vierzig-theme-demo.netlify.com/"
 tags = ["portfolio", "company", "contact form", "google analytics", "blog"]
-features = ["blog"]
+features = ["blog, NetlifyCMS"]
 min_version = "0.29"
 
+
 [author]
+  name = "Paul Mayer"
+  homepage = "https://marcusv.me"
+
+[original]
   name = "Marcus Virginia"
   homepage = "https://marcusv.me"
 
