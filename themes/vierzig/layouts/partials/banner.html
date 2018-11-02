@@ -5,13 +5,23 @@
             {{ with .Site.Params.Banner.title }}
             <h1>{{.}}</h1>
             {{else}}
-            <h1>Please define Title</h1>
+            <h1>Please define a Banner Title</h1>
             {{end}}
         </header>
         <div class="content">
-            <p>{{ .Site.Params.Banner.subtitle }}</p>
+            {{ with .Site.Params.Banner.subtitle }}
+            <p>{{.}}</p>
+            {{else}}
+            <p>Please define the Banner Subtitle</p>
+            {{end}}
             <ul class="actions">
-                <li><a href="#one" class="button next scrolly">{{ .Site.Params.Banner.buttonText }}</a></li>
+                <li>
+                    {{ with .Site.Params.Banner.buttonText }}
+                    <a href="#one" class="button next scrolly">{{.}}</a>
+                    {{else}}
+                    <a href="#one" class="button next scrolly">Please define the Banner Button Text</a>
+                    {{end}}
+                </li>
             </ul>
         </div>
     </div>
