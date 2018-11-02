@@ -17,9 +17,10 @@ disqusShortname = ""
     [params.banner]
         # To change the background image on the homepage banner, replace 'banner.jpg' in
         # the 'static/img' folder.
-        title = "Wellcome to Vierzig"
+        title = "Welcome to Vierzig"
         subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
         buttonText = "How to install"
+        link = "/"
 
 
     # Link custom assets relative to /static
