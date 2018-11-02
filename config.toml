@@ -11,14 +11,14 @@ disqusShortname = ""
 
 [params]
     # Provide your metadata here.
-    name = "Your name"
-    description = "Your description"
+    #name = "Your name"
+    #description = "Your description"
     # Banner section
     [params.banner]
         # To change the background image on the homepage banner, replace 'banner.jpg' in
         # the 'static/img' folder.
-        subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
-        buttonText = "How to install"
+        #subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
+        #buttonText = "How to install"
 
 
     # Link custom assets relative to /static
@@ -71,9 +71,6 @@ disqusShortname = ""
     [[params.navigation.button2]]
       name = "Log In"
       url = "#"
-
-
-
 
   # Contact section
   [params.contact]
