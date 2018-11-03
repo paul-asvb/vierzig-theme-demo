@@ -35,19 +35,6 @@ After cloning Forty or adding it as a submodule, there are a few other things yo
 There is an [`exampleSite`](//github.com/MarcusVirg/forty/tree/master/exampleSite) folder for this theme. Copy the file called [`config.toml`](//github.com/MarcusVirg/forty/blob/master/exampleSite/config.toml) to your websites root directory.
 Here you can customize some of the text and content on the website.
 
-### Change background
-
-You can change the background by replacing the banner.jpg file with your own image in the folder forty/static/img. The image must be in jpg format and the filename must be called banner.jpg otherwise it will not work.
-
-### Create new project/blog
-
-To create a new blog post, you can take advantage of archetypes and use the Hugo command:
-
-    $ cd hugoProjectDirectory
-    $ hugo new blogs/myBlog.md
-
-Replace `myBlog.md` with your own file name. You can also just copy the markdown files from forty/exampleSite/content/blogs
-
 ### Contact form
 
 This page is static so [formspree.io](https://formspree.io/) is used to forward the message to your email. Visitors can send you up to 1,000 emails per month for free.
