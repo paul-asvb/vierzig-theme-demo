@@ -49,3 +49,4 @@ build site to /public with
 - [ ] Cut down on theme config
 - [ ] Remove Menu
 - [ ] Come up with sass concept
+- [ ] User Netflify Form
