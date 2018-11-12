@@ -6,7 +6,7 @@ Demo for the [Vierzig Theme](https://github.com/ASVBPREAUBV/vierzig)
 
 [Demo](https://vierzig-theme-demo.netlify.com/admin) for the Admin Interface
 
-### Developing this repo
+## Developing this theme
 
 I have the habit to put the bin-file of hugo in the ./bin directory
 To use this just mkdir the directory ./bin and put the [downloaded](https://github.com/gohugoio/hugo/releases) binary in the directory.
@@ -49,4 +49,6 @@ build site to /public with
 - [ ] Cut down on theme config
 - [ ] Remove Menu
 - [ ] Come up with sass concept
+- [ ] Add posts as tiles in index
+- [ ] Add Netflify CMS
 - [ ] User Netflify Form
