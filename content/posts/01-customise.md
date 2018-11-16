@@ -1,6 +1,6 @@
 ---
-title: "Installation"
-description: "index Description"
+title: "Vierzig Customisation"
+description: "How to put your own "
 date: "2018-02-02"
 ---
 
