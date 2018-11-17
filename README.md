@@ -34,7 +34,7 @@ You can lookup
 
 I didnt want to get JS involved too to simply download the SASS-binary to ./bin
 
-1. Download SASS from [the release page](1. https://github.com/sass/dart-sass/releases)
+1. Download SASS from [the release page](https://github.com/sass/dart-sass/releases)
 2. Put the SASS binary it in the ./bin directory
 3. Run: 
 
