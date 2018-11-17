@@ -6,6 +6,10 @@ Demo for the [Vierzig Theme](https://github.com/ASVBPREAUBV/vierzig)
 
 [Demo](https://vierzig-theme-demo.netlify.com/admin) for the Admin Interface
 
+## Customizing the theme
+
+If you want to customise hte
+
 ## Developing this theme
 
 I have the habit to put the bin-file of hugo in the ./bin directory
@@ -21,6 +25,22 @@ or
 Now enter [`localhost:1313`](http://localhost:1313/) in the address bar of your browser to see your site.
 
 `NOTE: In the command above -D loads content that is marked as a draft. You can switch content from draft to final by changing the frontmatter value of draft to false in the .md file for the content.`
+
+## Changing the markup
+
+You can lookup 
+
+## Changing the styles
+
+I didnt want to get JS involved too to simply download the SASS-binary to ./bin
+
+1. Download SASS from [the release page](1. https://github.com/sass/dart-sass/releases)
+2. Put the SASS binary it in the ./bin directory
+3. Run: 
+
+    $ make sass
+
+to run the development and live-reload
 
 
 ## Admin Interface
