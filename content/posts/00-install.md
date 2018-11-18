@@ -1,6 +1,6 @@
 ---
 title: "Installation"
-description: "How to install Vierzig on for your own "
+description: "How to install Vierzig on for your own"
 date: "2018-02-02"
 ---
 
@@ -26,9 +26,19 @@ This is because Netlify uses the hugo build command when autopublish is enabled 
 
 If your javascript or css isn't rendering, check your BaseURL frontmatter in the `config.toml` file. This needs to be set to match the URL you are publishing to. i.e. if you are publishing to https://www.yourdomain.com your frontmatter should be `BaseURL = https://www.yourdomain.com`
 
-## Using the theme
+## Using the theme without netlify CMS
 
 After cloning Vierzig or adding it as a submodule, there are a few other things you should do:
+
+1. Add wanted Variables to config.toml/yml/json [List of available Variables](variable link)
+2. 
+
+## Using the theme with netlify CMS
+
+1. Follow all steps in "Using the theme without netlify CMS"
+2. Activate identities
+3. login
+4. change content
 
 ### Config File
 
