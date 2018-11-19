@@ -1,0 +1,3 @@
+[submodule "themes/vierzig"]
+	path = themes/vierzig
+	url = git@github.com:ASVBPREAUBV/vierzig.git
