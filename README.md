@@ -21,6 +21,11 @@ You can see a preview of your site while developing it by running Hugo's built-i
     $ cd themes/
     $ git submodule add git@github.com:ASVBPREAUBV/vierzig.git
 
+2. Download the bin
+
+    $ go to https://github.com/gohugoio/hugo/releases
+    $ copy hugo in the ./bin directory
+
 2. run dev server
 
     $ ./bin/hugo server -D
@@ -79,3 +84,4 @@ build site to /public with
 - [ ] Add posts as tiles in index
 - [ ] Add Netflify CMS
 - [ ] User Netflify Form
+- [ ] https://gohugo.io/content-management/page-resources/

@@ -2,6 +2,9 @@
 title: "Installation"
 description: "How to install Vierzig on for your own"
 date: "2018-02-02"
+resources:
+- name: header
+  src: test.file
 ---
 
 ## Installation
