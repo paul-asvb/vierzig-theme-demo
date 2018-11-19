@@ -16,6 +16,13 @@ I have the habit to put the bin-file of hugo in the ./bin directory
 To use this just mkdir the directory ./bin and put the [downloaded](https://github.com/gohugoio/hugo/releases) binary in the directory.
 You can see a preview of your site while developing it by running Hugo's built-in webserver.
 
+1. init submodule
+    
+    $ cd themes/
+    $ git submodule add git@github.com:ASVBPREAUBV/vierzig.git
+
+2. run dev server
+
     $ ./bin/hugo server -D
 
 or
