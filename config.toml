@@ -20,7 +20,7 @@ disqusShortname = ""
         title = "Welcome to Vierzig"
         subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
         buttonText = "How to install"
-        link = "/"
+        link = "/posts/how-to-install"
 
 
     # Link custom assets relative to /static
