@@ -10,18 +10,19 @@ permalinks:
   post: /:slug
 ---
 
-## Installation
 
 Create a new Hugo Site and inside the site directory run the following commands:
 
     $ cd themes
     $ git clone https://github.com/ASVBPREAUBV/vierzig
+    
+    
 
 //TODO add images
 
 To learn how to create a Hugo Site read the [official guide](//gohugo.io/overview/installing/) of Hugo.
 
-### Installation with netlify for build and deployment
+## Installation with netlify for build and deployment
 
 If you are using Netlify to host your hugo site, you will want to add it as a submodule instead of cloning:
 
@@ -37,7 +38,6 @@ If your javascript or css isn't rendering, check your BaseURL frontmatter in the
 After cloning Vierzig or adding it as a submodule, there are a few other things you should do:
 
 1. Add wanted Variables to config.toml/yml/json [List of available Variables](variable link)
-2. 
 
 ## Using the theme with netlify CMS
 
