@@ -85,3 +85,4 @@ build site to /public with
 - [ ] Add Netflify CMS
 - [ ] User Netflify Form
 - [ ] https://gohugo.io/content-management/page-resources/
+- [ ] Change Display method to Flex
