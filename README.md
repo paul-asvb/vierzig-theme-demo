@@ -10,7 +10,7 @@ Demo for the [Vierzig Theme](https://github.com/ASVBPREAUBV/vierzig)
 
 View the [Demo](https://vierzig-theme-demo.netlify.com/) or
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?https://github.com/ASVBPREAUBV/vierzig)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?https://github.com/ASVBPREAUBV/vierzig-theme-demo)
 
 ## Customizing the theme
 
