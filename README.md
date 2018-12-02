@@ -6,6 +6,12 @@ Demo for the [Vierzig Theme](https://github.com/ASVBPREAUBV/vierzig)
 
 [Demo](https://vierzig-theme-demo.netlify.com/admin) for the Admin Interface
 
+## Try
+
+View the [Demo](https://vierzig-theme-demo.netlify.com/) or
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?https://github.com/ASVBPREAUBV/vierzig)
+
 ## Customizing the theme
 
 If you want to customise hte
