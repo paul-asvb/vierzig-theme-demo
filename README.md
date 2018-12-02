@@ -1,8 +1,6 @@
 # Vierzig Theme Demo
 
-Demo for the [Vierzig Theme](https://github.com/ASVBPREAUBV/vierzig)
-
-[Demo](https://vierzig-theme-demo.netlify.com/) for the page
+This Repo contains a example [Demo](https://vierzig-theme-demo.netlify.com/) for the page for the [Vierzig Theme](https://github.com/ASVBPREAUBV/vierzig).
 
 [Demo](https://vierzig-theme-demo.netlify.com/admin) for the Admin Interface
 
