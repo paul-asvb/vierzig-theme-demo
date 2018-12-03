@@ -90,3 +90,4 @@ build site to /public with
 - [ ] User Netflify Form
 - [ ] https://gohugo.io/content-management/page-resources/
 - [ ] Change Display method to Flex
+- [ ] Move CSS to https://github.com/stylecow/stylecow
