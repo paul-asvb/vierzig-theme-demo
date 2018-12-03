@@ -11,18 +11,24 @@ permalinks:
   post: /:slug
 ---
 
+If you dont know Hugo: Learn how to create a Hugo Site read the [official guide](//gohugo.io/overview/installing/) of Hugo.
 
-Create a new Hugo Site and inside the site directory run the following commands:
+# Using Netlify-One-Click Installation
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?https://github.com/ASVBPREAUBV/vierzig)
+
+
+# Using the Vierzig theme in your own site
+
+1. Create a new Hugo Site and inside the site directory run the following commands:
 
     $ cd themes
     $ git clone https://github.com/ASVBPREAUBV/vierzig
+
+2. Serve od build hugo site to see preview
     
+    $ hugo serve
     
-
-//TODO add images
-
-To learn how to create a Hugo Site read the [official guide](//gohugo.io/overview/installing/) of Hugo.
-
 ## Installation with netlify for build and deployment
 
 If you are using Netlify to host your hugo site, you will want to add it as a submodule instead of cloning:
