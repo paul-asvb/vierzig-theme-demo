@@ -82,12 +82,6 @@ build site to /public with
 
 ## TODO
 
-- [ ] Cut down on theme config
-- [ ] Remove Menu
-- [ ] Come up with sass concept
-- [ ] Add posts as tiles in index
 - [ ] Add Netflify CMS
 - [ ] User Netflify Form
 - [ ] https://gohugo.io/content-management/page-resources/
-- [ ] Change Display method to Flex
-- [ ] Move CSS to https://github.com/stylecow/stylecow OR https://github.com/jonathantneal/precss OR http://cssnext.io/
