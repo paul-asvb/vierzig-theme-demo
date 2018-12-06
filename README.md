@@ -10,9 +10,16 @@ View the [Demo](https://vierzig-theme-demo.netlify.com/) or
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?https://github.com/ASVBPREAUBV/vierzig-theme-demo)
 
-## Customizing the theme
+## Using and customising the theme
 
-If you want to customise hte
+If you want to use this theme you have 3 different options:
+
+1. Using with simple changes in config.toml
+	//TODO description
+2. Using with style changes
+	//TODO description
+3. Changing the Markup
+	//TODO description
 
 ## Developing this theme
 
@@ -48,15 +55,6 @@ You can lookup
 
 ## Changing the styles
 
-I didnt want to get JS involved too to simply download the SASS-binary to ./bin
-
-1. Download SASS from [the release page](https://github.com/sass/dart-sass/releases)
-2. Put the SASS binary it in the ./bin directory
-3. Run: 
-
-    $ make sass
-
-to run the development and live-reload
 
 
 ## Admin Interface
