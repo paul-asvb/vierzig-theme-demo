@@ -19,7 +19,7 @@ If you want to use this theme you have 3 different options:
 2. Using with style changes
 	//TODO description
 3. Changing the Markup
-	//TODO description
+	//TODO description	
 
 ## Developing this theme
 
