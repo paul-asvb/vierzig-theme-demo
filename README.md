@@ -55,7 +55,11 @@ You can lookup
 
 ## Changing the styles
 
+The stylesheets for this repo try to implement BEM
 
+npm install autoprefixer --save-dev
+npm install cssnext --save-dev
+npm install precss --save-dev
 
 ## Admin Interface
 
