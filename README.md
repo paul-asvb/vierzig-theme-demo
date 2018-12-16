@@ -89,4 +89,5 @@ build site to /public with
 - [ ] https://gohugo.io/content-management/page-resources/
 - [ ] add https://cssnano.co/ for css minification
 - [ ] add https://github.com/stylelint/stylelint, https://github.com/morishitter/stylefmt for css source-beauty
+- [ ] add .stylelintrc file
 
