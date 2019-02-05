@@ -10,7 +10,11 @@ View the [Demo](https://vierzig-theme-demo.netlify.com/) or
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?https://github.com/ASVBPREAUBV/vierzig-theme-demo)
 
-## Using and customising the theme
+## Using this theme
+
+//TODO explain download
+
+## Customising the theme
 
 If you want to use this theme you have 3 different options:
 
@@ -90,4 +94,5 @@ build site to /public with
 - [ ] add https://cssnano.co/ for css minification
 - [ ] add https://github.com/stylelint/stylelint, https://github.com/morishitter/stylefmt for css source-beauty
 - [ ] add .stylelintrc file
+- [ ] Add github release
 
