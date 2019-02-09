@@ -6,12 +6,14 @@ This Repo contains a example [Demo](https://vierzig-theme-demo.netlify.com/) for
 
 ## Try
 
+
 View the [Demo](https://vierzig-theme-demo.netlify.com/) or
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?https://github.com/ASVBPREAUBV/vierzig-theme-demo)
 
 ## Using this theme
 
+[T](https://github.com/ASVBPREAUBV/vierzig)
 //TODO explain download
 
 ## Customising the theme
