@@ -1,8 +1,14 @@
 # Vierzig Theme Demo
 
+A responsive [hugo](https://gohugo.io/) theme. Build with CSS4 and love.
+
+Build a beautiful website. Make the content editable with [netifly](https://www.netlify.com/).
+
+View the live [demo](https://vierzig-theme-demo.netlify.com/).
+
 This Repo contains a example [Demo](https://vierzig-theme-demo.netlify.com/) for the page for the [Vierzig Theme](https://github.com/ASVBPREAUBV/vierzig).
 
-[Demo](https://vierzig-theme-demo.netlify.com/admin) for the Admin Interface
+[Admin-Interface Demo](https://vierzig-theme-demo.netlify.com/admin).
 
 ## Try
 
