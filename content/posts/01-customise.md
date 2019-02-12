@@ -16,6 +16,7 @@ Create a new Hugo Site and inside the site directory run the following commands:
 
 To learn how to create a Hugo Site read the [official guide](//gohugo.io/overview/installing/) of Hugo.
 
+### Installation without netlify
 ### Installation with netlify for build and deployment
 
 If you are using Netlify to host your hugo site, you will want to add it as a submodule instead of cloning:
