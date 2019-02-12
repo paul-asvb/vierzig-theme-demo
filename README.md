@@ -49,13 +49,19 @@ You can see a preview of your site while developing it by running Hugo's built-i
     $ go to https://github.com/gohugoio/hugo/releases
     $ copy hugo in the ./bin directory
 
-2. run dev server
+3. run dev server
 
     $ ./bin/hugo server -D
 
 or
 
     $ make dev
+
+4. If you want to change the styling:
+    
+    cd themes/vierzig
+    npm i
+    npm run dev
 
 Now enter [`localhost:1313`](http://localhost:1313/) in the address bar of your browser to see your site.
 
