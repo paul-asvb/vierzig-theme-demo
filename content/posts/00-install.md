@@ -5,8 +5,8 @@ date: "2018-02-02"
 slug: "how-to-install"
 weight: 0
 resources:
-- name: header
-  src: test.file
+- name: background
+  src: pawel-czerwinski-1343790-unsplash.jpg
 permalinks:
   post: /:slug
 ---
