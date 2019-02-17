@@ -109,4 +109,4 @@ build site to /public with
 - [ ] add https://github.com/stylelint/stylelint, https://github.com/morishitter/stylefmt for css source-beauty
 - [ ] add .stylelintrc file
 - [ ] Add github release
-
+- [ ] Try to use Readme as post content
