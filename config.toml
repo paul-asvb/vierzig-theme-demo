@@ -9,8 +9,9 @@ googleAnalytics = ""
 [params]
     [params.banner]
         show = true
-        title = "Welcome to Vierzig"
-        subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
+        abovetitle = "Hello my name is"
+        title = "Vierzig"
+        subtitle = "A simple open source hugo theme"
         buttonText = "How to install"
         link = "/posts/how-to-install"
         #image = "pawel-czerwinski-1343790-unsplash.jpg"
