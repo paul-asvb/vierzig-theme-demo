@@ -6,27 +6,14 @@ theme = "vierzig"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
-# Enter your disqus shortname to enable comments
-disqusShortname = ""
-
 [params]
-    # Provide your metadata here.
-    #name = "Your name"
-    #description = "Your description"
-    # Banner section
     [params.banner]
-        # To change the background image on the homepage banner, replace 'banner.jpg' in
-        # the 'static/img' folder.
+        show = true
         title = "Welcome to Vierzig"
         subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
         buttonText = "How to install"
         link = "/posts/how-to-install"
-
-
-    # Link custom assets relative to /static
-    custom_css = []
-    custom_js  = []
-    favicon    = "favicon.ico"
+        #image = "pawel-czerwinski-1343790-unsplash.jpg"
 
     # 404 error customization
     [params.error404]
