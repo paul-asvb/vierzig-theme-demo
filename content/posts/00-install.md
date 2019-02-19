@@ -6,7 +6,7 @@ slug: "how-to-install"
 weight: 0
 resources:
 - name: background
-  src: pawel-czerwinski-1343790-unsplash.jpg
+  src: sergi-kabrera-705414-unsplash.jpg
 permalinks:
   post: /:slug
 ---

@@ -2,7 +2,7 @@
 
 A responsive [hugo](https://gohugo.io/) theme. Build with CSS4 and love. View the [demo](https://vierzig-theme-demo.netlify.com/).
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Vierzig Theme Demo Preview](https://raw.githubusercontent.com/ASVBPREAUBV/vierzig-theme-demo/master/resources/preview.png)
 
 
 Build a beautiful website. Make the content editable with [netifly](https://www.netlify.com/).
