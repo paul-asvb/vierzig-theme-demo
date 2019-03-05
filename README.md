@@ -24,6 +24,10 @@ View the [Demo](https://vierzig-theme-demo.netlify.com/) or
 [T](https://github.com/ASVBPREAUBV/vierzig)
 //TODO explain download
 
+## Features
+
+TODO 
+
 ## Customising the theme
 
 If you want to use this theme you have 3 different options:
@@ -101,17 +105,15 @@ build site to /public with
 ./bin/hugo 
 ```
 
-
 ## TODO
 
 - [ ] Add Netflify CMS
 - [ ] User Netflify Form
 - [ ] add .stylelintrc file
 - [ ] Add github release
-- [ ] Try to use Readme as post content
+- [ ]
 
 ## Research
-
 
 - [ ] add https://cssnano.co/ for css minification
 - [ ] add https://github.com/stylelint/stylelint, https://github.com/morishitter/stylefmt for css source-beauty
