@@ -1,6 +1,6 @@
 ---
 title: "Vierzig Customisation"
-description: "How to put your own "
+description: "How change colors and more"
 date: "2018-02-02"
 weight: 1
 ---

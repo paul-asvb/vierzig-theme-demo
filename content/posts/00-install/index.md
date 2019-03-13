@@ -1,6 +1,6 @@
 ---
 title: "Installation"
-description: "How to install Vierzig on for your own"
+description: "How to install Vierzig on for your hugo page"
 date: "2018-02-02"
 slug: "how-to-install"
 weight: 0
