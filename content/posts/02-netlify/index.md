@@ -6,3 +6,5 @@ weight: 3
 ---
 
 ## Why netlify
+## How to netlify
+## How tt customise netlify CMS
