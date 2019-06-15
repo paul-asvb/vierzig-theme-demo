@@ -15,11 +15,25 @@ This Repo contains a example [Demo](https://vierzig-theme-demo.netlify.com/) for
 
 ## Try
 
-View the [Demo](https://vierzig-theme-demo.netlify.com/) or
+View the [Demo](https://vierzig-theme-demo.netlify.com/)
+
+or
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?https://github.com/ASVBPREAUBV/vierzig-theme-demo)
 
+or
+
+try locally
+
+git clone git@github.com:ASVBPREAUBV/vierzig-theme-demo.git --recursive
+
+and then 
+
+hugo serve
+
 ## Using this theme
+
+
 
 [T](https://github.com/ASVBPREAUBV/vierzig)
 //TODO explain download
@@ -53,11 +67,10 @@ You can see a preview of your site while developing it by running Hugo's built-i
 2. Download the bin
 
     $ go to https://github.com/gohugoio/hugo/releases
-    $ copy hugo in the ./bin directory
 
 3. run dev server
 
-    $ ./bin/hugo server -D
+    $ hugo server -D
 
 or
 
@@ -96,13 +109,13 @@ https://github.com/gohugoio/hugo/releases
 2. copy hugo bin in bin/ folder
 3. test static site
 ```
-./bin/hugo server -wDEF --disableFastRender
+hugo server -wDEF --disableFastRender
 ```
 
 ## Production
 build site to /public with
 ```
-./bin/hugo 
+hugo 
 ```
 
 ## TODO
