@@ -53,20 +53,15 @@ If you want to use this theme you have 3 different options:
 3. Changing the Markup
 	//TODO description	
 
-## Developing this theme
+## Developing this theme with theme demo
 
-I have the habit to put the bin-file of hugo in the ./bin directory
-To use this just mkdir the directory ./bin and put the [downloaded](https://github.com/gohugoio/hugo/releases) binary in the directory.
-You can see a preview of your site while developing it by running Hugo's built-in webserver.
+1. clone this repo
 
-1. init submodule
-    
-    $ cd themes/
-    $ git submodule add git@github.com:ASVBPREAUBV/vierzig.git
+`
+git clone --recursive git@github.com/ASVBPREAUBV/vierzig-theme-demo
+`
 
-2. Download the bin
-
-    $ go to https://github.com/gohugoio/hugo/releases
+2. Install Hugo (e.g. [Download the bin](https://github.com/gohugoio/hugo/releases))
 
 3. run dev server
 
