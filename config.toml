@@ -24,6 +24,11 @@ quality = 75
 anchor = "smart"
 
 [params]
+    [params.header]
+        logoLeft = "vierzig"
+        logoRight = "theme"
+        menu = "menu"
+
     [params.banner]
         show = true
         abovetitle = "Hello my name is"
