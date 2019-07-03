@@ -36,7 +36,7 @@ anchor = "smart"
         subtitle = "A simple open source hugo theme"
         buttonText = "How to install"
         link = "/posts/how-to-install"
-        #image = "pawel-czerwinski-1343790-unsplash.jpg"
+        image = "pawel-czerwinski-1343790-unsplash.jpg"
 
     # 404 error customization
     [params.error404]
