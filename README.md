@@ -58,19 +58,25 @@ git clone --recursive git@github.com/ASVBPREAUBV/vierzig-theme-demo
 
 3. run dev server
 
-    $ hugo server -D
+```
+    hugo server -D
+```
 
 or
 
-    $ make dev
+```
+    make dev
+````
 
 4. If you want to change the styling:
     
+```
     cd themes/vierzig
     npm i
     npm run dev
+```
 
-Now enter [`localhost:1313`](http://localhost:1313/) in the address bar of your browser to see your site.
+[`localhost:1313`](http://localhost:1313/)
 
 `NOTE: In the command above -D loads content that is marked as a draft. You can switch content from draft to final by changing the frontmatter value of draft to false in the .md file for the content.`
 
@@ -82,9 +88,11 @@ You can lookup
 
 The stylesheets for this repo try to implement BEM
 
+```
 npm install autoprefixer --save-dev
 npm install cssnext --save-dev
 npm install precss --save-dev
+````
 
 ## Admin Interface
 
