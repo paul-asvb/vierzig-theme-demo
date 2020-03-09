@@ -25,22 +25,15 @@ or
 
 try locally
 
+```
 git clone git@github.com:ASVBPREAUBV/vierzig-theme-demo.git --recursive
+````
 
 and then 
 
+```
 hugo serve
-
-## Using this theme
-
-
-
-[T](https://github.com/ASVBPREAUBV/vierzig)
-//TODO explain download
-
-## Features
-
-TODO 
+```
 
 ## Customising the theme
 
