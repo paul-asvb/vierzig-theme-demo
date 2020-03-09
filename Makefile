@@ -1,4 +1,4 @@
 dev:
-	./bin/hugo server -wDEF --disableFastRender
+	hugo server -wDEF --disableFastRender
 build:
-	./bin/hugo
+	hugo
